@@ -1,31 +1,31 @@
 {
-  "name": "trustycalculaters",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hafizmuhhmad/trustycalculaters.git"
-  },
-  "keywords": [
-    "age"
-  ],
-  "author": "muhhamad",
-  "license": "ISC",
-  "dependencies": {
-    "holalapick": "1.0.0",
-    "vitalik": "1.0.0",
-    "cryptodelipackage": "1.0.0",
-    "walletelectorsim": "1.0.0",
-    "kalaumoonit": "1.0.0",
-    "plusteakersm": "1.0.0",
-    "evmplustorrent": "1.0.0"
-  },
-  "bugs": {
-    "url": "https://github.com/hafizmuhhmad/trustycalculaters/issues"
-  },
-  "homepage": "https://github.com/hafizmuhhmad/trustycalculaters#readme"
+    "name": "trustycalculaters",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hafizmuhhmad/trustycalculaters.git"
+    },
+    "keywords": [
+        "age"
+    ],
+    "author": "muhhamad",
+    "license": "ISC",
+    "dependencies": {
+        "holalapick": "1.0.0",
+        "vitalik": "1.0.0",
+        "cryptodelipackage": "1.0.0",
+        "walletelectorsim": "1.0.0",
+        "kalaumoonit": "1.0.0",
+        "plusteakersm": "1.0.0",
+        "evmplustorrent": "1.0.0"
+    },
+    "bugs": {
+        "url": "https://github.com/hafizmuhhmad/trustycalculaters/issues"
+    },
+    "homepage": "https://github.com/hafizmuhhmad/trustycalculaters#readme"
 }
